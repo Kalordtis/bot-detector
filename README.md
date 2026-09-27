@@ -1,4 +1,5 @@
-# EcoSec
+# Bot detetor
+
 
 ## Behavioral Abuse Detection System
 
